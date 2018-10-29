@@ -1,5 +1,9 @@
-Hello world
+Hello dev
 
+<<<<<<< HEAD
 Deuxième lignelqsdjfmqsdfgttgtf
 
 Troisième ligne
+=======
+Deuxième ligne
+>>>>>>> dev
